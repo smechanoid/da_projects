@@ -1,2 +1,2 @@
 # da_projects
-My DA Projects Portfolio
+Портфолио учебных проектов 
