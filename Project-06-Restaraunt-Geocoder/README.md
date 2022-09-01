@@ -31,7 +31,7 @@
 
 *re*
 
-*plotly.graph_objs*
+*plotly*
 
 *requests*
 

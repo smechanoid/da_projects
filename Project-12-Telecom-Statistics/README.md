@@ -22,11 +22,11 @@
 
 *numpy*
 
-*datetime, timedelta*
+*datetime*
 
 *seaborn*
 
-*matplotlib.pyplot*
+*matplotlib*
 
 *math* 
 

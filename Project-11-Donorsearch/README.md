@@ -40,7 +40,7 @@
 
 *requests*
 
-*matplotlib.pyplot*
+*matplotlib*
 
 *seaborn*
 
@@ -48,4 +48,4 @@
 
 *json*
 
-*plotly.graph_objs* 
+*plotly* 
